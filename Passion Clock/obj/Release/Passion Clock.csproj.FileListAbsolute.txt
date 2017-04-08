@@ -1,0 +1,7 @@
+C:\Users\Runner\Documents\Visual Studio 2017\Projects\Passion Clock\Passion Clock\bin\Release\Passion Clock.exe.config
+C:\Users\Runner\Documents\Visual Studio 2017\Projects\Passion Clock\Passion Clock\bin\Release\Passion Clock.exe
+C:\Users\Runner\Documents\Visual Studio 2017\Projects\Passion Clock\Passion Clock\bin\Release\Passion Clock.pdb
+C:\Users\Runner\Documents\Visual Studio 2017\Projects\Passion Clock\Passion Clock\obj\Release\Passion_Clock.MainWindow.resources
+C:\Users\Runner\Documents\Visual Studio 2017\Projects\Passion Clock\Passion Clock\obj\Release\Passion Clock.csproj.GenerateResource.Cache
+C:\Users\Runner\Documents\Visual Studio 2017\Projects\Passion Clock\Passion Clock\obj\Release\Passion Clock.exe
+C:\Users\Runner\Documents\Visual Studio 2017\Projects\Passion Clock\Passion Clock\obj\Release\Passion Clock.pdb

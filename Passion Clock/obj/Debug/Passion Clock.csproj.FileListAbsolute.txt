@@ -1,0 +1,9 @@
+C:\Users\Runner\Documents\Visual Studio 2017\Projects\Passion Clock\Passion Clock\bin\Debug\Passion Clock.exe.config
+C:\Users\Runner\Documents\Visual Studio 2017\Projects\Passion Clock\Passion Clock\bin\Debug\Passion Clock.exe
+C:\Users\Runner\Documents\Visual Studio 2017\Projects\Passion Clock\Passion Clock\bin\Debug\Passion Clock.pdb
+C:\Users\Runner\Documents\Visual Studio 2017\Projects\Passion Clock\Passion Clock\obj\Debug\Passion Clock.csprojResolveAssemblyReference.cache
+C:\Users\Runner\Documents\Visual Studio 2017\Projects\Passion Clock\Passion Clock\obj\Debug\Passion_Clock.MainWindow.resources
+C:\Users\Runner\Documents\Visual Studio 2017\Projects\Passion Clock\Passion Clock\obj\Debug\Passion Clock.csproj.GenerateResource.Cache
+C:\Users\Runner\Documents\Visual Studio 2017\Projects\Passion Clock\Passion Clock\obj\Debug\Passion Clock.exe
+C:\Users\Runner\Documents\Visual Studio 2017\Projects\Passion Clock\Passion Clock\obj\Debug\Passion Clock.pdb
+C:\Users\Runner\Documents\Visual Studio 2017\Projects\Passion Clock\Passion Clock\obj\Debug\Passion_Clock.PreviewWindow.resources
